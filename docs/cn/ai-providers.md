@@ -13,7 +13,7 @@
 
 ### 豆包 (字节跳动火山引擎)
 
-> **免费 Token**：在 [火山引擎 ARK 平台](https://www.volcengine.com/activity/newyear-referral?utm_campaign=doubao&utm_content=aidrawio&utm_medium=github&utm_source=coopensrc&utm_term=project) 注册，即可获得所有模型 50 万免费 Token！
+> **免费 Token**：在 [火山引擎 ARK 平台](https://www.volcengine.com/activity/codingplan?ac=MMAP8JTTCAQ2&rc=Z9Z3LDTJ&utm_campaign=drawio&utm_content=drawio&utm_medium=devrel&utm_source=OWO&utm_term=drawio) 注册，即可获得所有模型 50 万免费 Token！
 
 ```bash
 DOUBAO_API_KEY=your_api_key
@@ -215,7 +215,7 @@ MiniMax 支持两种 API 格式：
 
 ```bash
 MINIMAX_API_KEY=your_api_key
-AI_MODEL=MiniMax-M2.5
+AI_MODEL=MiniMax-M2.7
 ```
 
 可选配置：

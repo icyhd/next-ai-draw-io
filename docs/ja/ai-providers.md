@@ -13,7 +13,7 @@
 
 ### Doubao (ByteDance Volcengine)
 
-> **無料トークン**: [Volcengine ARK プラットフォーム](https://www.volcengine.com/activity/newyear-referral?utm_campaign=doubao&utm_content=aidrawio&utm_medium=github&utm_source=coopensrc&utm_term=project)に登録すると、すべてのモデルで使える50万トークンが無料で入手できます！
+> **無料トークン**: [Volcengine ARK プラットフォーム](https://www.volcengine.com/activity/codingplan?ac=MMAP8JTTCAQ2&rc=Z9Z3LDTJ&utm_campaign=drawio&utm_content=drawio&utm_medium=devrel&utm_source=OWO&utm_term=drawio)に登録すると、すべてのモデルで使える50万トークンが無料で入手できます！
 
 ```bash
 DOUBAO_API_KEY=your_api_key
@@ -215,7 +215,7 @@ MiniMax は 2 つの API 形式をサポートしています：
 
 ```bash
 MINIMAX_API_KEY=your_api_key
-AI_MODEL=MiniMax-M2.5
+AI_MODEL=MiniMax-M2.7
 ```
 
 オプション設定：
